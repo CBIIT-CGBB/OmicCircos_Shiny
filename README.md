@@ -14,6 +14,6 @@ from left to right:
 
 ## example 2: segment data and gene links by PPI
 
-<img src="examples/seg_link.png" width="440" height="220"> 
+<img src="examples/seg_link.png" width="440" height="260"> 
 
 [R codes](examples/do_pathway_link2.R)  

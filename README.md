@@ -2,11 +2,11 @@
 
 ## 1 exampls
 
-<img src="examples/example1.png" width="260" height="100"> 
+<img src="examples/example1.png" width="340" height="200"> 
 
 [R codes](examples/do_cluster_circle_test.R)  
 
-<img src="examples/example2.png" width="260" height="100"> 
+<img src="examples/example2.png" width="360" height="200"> 
 
 from left to right:
 

@@ -1,4 +1,4 @@
-# Documentations, Data, and Examples are for OmicCircos App
+# Documentations, Data, and Examples for OmicCircos App
 
 ## example 1: circular cluster and heatmap
 

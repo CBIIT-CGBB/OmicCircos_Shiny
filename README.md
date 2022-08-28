@@ -6,7 +6,7 @@
 
 [R codes](examples/do_cluster_circle_test.R)  
 
-<img src="examples/example2.png" width="460" height="200"> 
+<img src="examples/example2.png" width="440" height="200"> 
 
 from left to right:
 

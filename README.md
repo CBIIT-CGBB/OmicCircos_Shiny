@@ -1,1 +1,1 @@
-It is for OmicCircos_Shiny
+It is for OmicCircos App

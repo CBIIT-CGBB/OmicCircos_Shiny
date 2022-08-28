@@ -1,6 +1,6 @@
 # It is for OmicCircos App
 
-## 1 exampls
+## example 1: circular cluster and heatmap
 
 <img src="examples/example1.png" width="440" height="200"> 
 
@@ -11,3 +11,9 @@
 from left to right:
 
 [R code 1](examples/do_cluster_circle01.R)  [R code 2](examples/do_cluster_circle02.R)   [R code 3](examples/do_cluster_circle03.R)    
+
+## example 2: segment data and gene links by PPI
+
+<img src="examples/seg_link.png" width="440" height="220"> 
+
+[R codes](examples/do_pathway_link2.R)  
